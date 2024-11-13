@@ -1,0 +1,5 @@
+ops.json
+whitelist.json
+*.mrpack
+data/
+.env
