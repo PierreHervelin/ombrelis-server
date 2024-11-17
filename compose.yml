@@ -15,6 +15,7 @@ services:
       ALLOW_FLIGHT: true
       ENABLE_COMMAND_BLOCK: true
       DIFFICULTY: "normal"
+      SEED: -3810146963811578451
       MOTD: "§l§cPIKMINE§r | Ombrelis"
 
       MODRINTH_MODPACK: ${MODRINTH_MODPACK}
